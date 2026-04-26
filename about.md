@@ -3,23 +3,38 @@ layout: default
 title: About Me
 ---
 
-<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
+### Hello, thanks for visiting! 
+### I am Shelene, a digital archaeologist and graphic designer based in the Netherlands. 
 
-I'm Dilbert. I've been working as a Software Engineer for over 30 years. I like to innovate to solve challenging problems using technology. I work with a great Engineering team, but we have a good-for-nothing and clueless manager, who can be replaced with a monkey and the change would be for the better.
+I have an unusual education background, starting from a formal education in graphic design before pivoting to archaeology (my childhood dream!) and soon, geomatics. 
 
-On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
+Despite this unconventionality, I have realised throughout my education and experiences that I am largely interested in **digital tools** and everything **spatial-related**. Think of 3D printing book covers, creating (archaeological) maps and network analyses, these are some of the things I do within my various education experiences. 
 
-### Life Advice
-Here are a few things I've learned over the years,
-> An optimist is simply a pessimist with no job experience.
 
-> All of your co-workers are fools. You must learn to pity and tolerate them.
+## Education
 
-> There are very few problems that can't be solved through a suitable application of high explosives.
+2023-2026 <br>
+**BA World Archaeology** <br>
+Leiden University <br>
+Leiden, The Netherlands
 
-### Publications
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
 
-### Contact Me
-No thanks, I have enough problems of my own to deal with.
+2021-2023 <br>
+**BA Graphic Design** <br>
+Royal Academy of Art, The Hague (Koninklijke Academie van Beeldende Kunsten) <br>
+The Hague, The Netherlands
+
+## Skills
+### Programming
+Python, R, HTML, CSS
+
+### Softwares
+QGIS, GIS, Rhinocerous 3D, Adobe applications (Illustrator, Photoshop, InDesign)
+
+
+## Languages
+English (native)<br>
+Mandarin (native)<br>
+Dutch (A2)<br>
+Korean (intermediate proficiency)
+
