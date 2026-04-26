@@ -1,6 +1,5 @@
 ---
 layout: default
-title: About Me
 ---
 
 ### Hello, thanks for visiting! 
